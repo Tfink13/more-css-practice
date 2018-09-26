@@ -1,1 +1,23 @@
 /* Add your CSS here */
+  #callout {
+    position: absolute;
+	top: 20px;
+ 	bottom: 60px;
+	border-bottom: 5px solid black;
+ 	width: 257px;
+ 	padding: 0 20px;
+ 	border-top: 5px solid Black;
+ 	Border-left: 5px solid Black;
+	Border-right: 5px solid Black;
+ 	background: RoyalBlue;
+  }
+
+#container {
+  margin-left: 325px;
+
+}
+
+Body
+{
+ Background: #AED6F1;
+}
