@@ -15,7 +15,7 @@
   }
 
 #container {
-  margin-left: 325px;
+  margin-left: 310px;
 
 }
 
@@ -26,5 +26,6 @@ Body
 
 Div {
     position: absolute;
-    left: 325px;
+    left: 310px;
+    margin-right: 10px;
 }
