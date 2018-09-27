@@ -45,6 +45,7 @@ h1 {
 
 .cat {
   float: left;
+  top: 0px;
 }
 .b {
   text-align: center;
@@ -151,4 +152,23 @@ min-width: 10px;
   position: absolute;
   top: 620px;
   right: 100px;
+}
+
+
+section {
+  position: absolute;
+    float: left;
+}
+
+
+.work {
+  position: absolute;
+    float: right;
+        left: 700px;
+
+}
+
+.diverse-two {
+  font-family: cursive;
+    width: 100%;
 }
