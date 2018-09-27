@@ -2,22 +2,153 @@
 
 body {
   font-family: BlinkMacSystemFont;
+    background: left;
+    min-width: 10px;
+
+  }
+div {
+  display: block;
+  line-height: 1;
+  min-width: 10px;
+
 }
 
+a {
+    color: cornflowerblue;
+    text-decoration: none;
+    min-width: 10px;
+}
+h1 {
+  float: left;
+
+}
+.cat {
+
+    border-radius: 50%;
+    position: absolute;
+}
+.cat-two{
+  border-radius: 50%;
+  float:right;
+
+
+}
+
+.diverse {
+    padding-right: 24px;
+    padding-left: 24px;
+}
+
+.group {
+  float: left;
+}
+
+.cat {
+  float: left;
+}
 .b {
   text-align: center;
       font-weight: 500;
 }
-.container {
+.container-two {
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  min-width: 10px;
+
 }
 
 
 .a {
       width: 75%;
-      margin-right: auto!important;
-      margin-left: auto!important;
-      text-align: center!important;
+      margin-right: auto;
+      margin-left: auto;
+      text-align: center;
+      line-height: 2;
+
+}
+
+.b {
+
+    font-size: 65px;
+    line-height: 1;
+
+}
+
+.c {
+
+font-size: 24px;
+color: Grey;
+
+
+}
+* {
+  box-sizing: border-box;
+
+}
+
+.d {
+
+margin-top: 65px;
+font-size: 20px;
+
+
+}
+
+.f {
+  margin-left: 50px;
+
+}
+
+.g{
+  margin-left: 50px;
+
+}
+
+.clearfix:before {
+  display: table;
+  content: "";
+}
+
+.clearfix:after {
+  display: table;
+  clear: both;
+  content: "";
+
+
+}
+
+.top {
+  margin: 50px;
+}
+
+.container-two {
+
+  margin-left: auto;
+margin-right: auto;
+padding-right: 15px;
+padding-left: 15px;
+min-width: 10px;
+}
+.info {
+  margin-left: 180px;
+  width: 33%;
+  text-align: left;
+
+}
+
+.bold {
+  font-family: Courier;
+  font-weight: bolder;
+}
+
+.info-two{
+  margin-left: 180px;
+  width: 33%;
+  text-align: left;
+  position: absolute;
+  top: 620px;
+  right: 100px;
 }
