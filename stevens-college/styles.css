@@ -18,23 +18,21 @@ h1 {
   position: relative;
   padding-left: 15px;
   width: 25%;
-  font-size: 55px;
+  font-size: 45px;
   margin-bottom: 10px;
-  
+
 
 }
 
-#text {
-  position: relative;
-  float: left;
-}
+
+
 
 
 
 .pic {
 
   margin: 0 auto;
-  width: 75%;
+  width: 65%;
   display: block;
 
 }
@@ -78,6 +76,7 @@ h1 {
 }
 
 section{
+
    margin: auto;
 }
 
