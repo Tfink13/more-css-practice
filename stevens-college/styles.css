@@ -1,66 +1,62 @@
 /* Add your CSS here */
 html {
-margin:0 auto;
+  margin: 0 auto;
 }
 
 body {
-margin: 0 auto;
-background: LightCoral;
+  margin: 0 auto;
+  background: LightCoral;
 }
 
-
-
 h1 {
-position: relative;
-padding-left: 15px;
-width: 25%;
-font-size: 45px;
-margin-bottom: 10px;
-
+  position: relative;
+  padding-left: 15px;
+  width: 25%;
+  font-size: 45px;
+  margin-bottom: 10px;
 }
 
 .pic {
-margin: 0 auto;
-width: 65%;
-display: block;
+  margin: 0 auto;
+  width: 65%;
+  display: block;
 }
 
 .Schedule {
-border: 1px solid #a6093d;
-padding: 15px 25px;
-background: #a6093d;
-color: white;
-text-decoration: none;
-margin-right: 10px;
-font-size: 15px;
-text-transform: uppercase;
+  border: 1px solid #a6093d;
+  padding: 15px 25px;
+  background: #a6093d;
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: 15px;
+  text-transform: uppercase;
 }
 
 .Faculty {
-border: 1px solid #a6093d;
-padding: 15px 20px;
-background: #a6093d;
-color: white;
-text-decoration: none;
-margin-right: 10px;
-font-size: 15px;
-text-transform: uppercase;
+  border: 1px solid #a6093d;
+  padding: 15px 20px;
+  background: #a6093d;
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: 15px;
+  text-transform: uppercase;
 }
 
 .Tool {
-border: 1px solid #a6093d;
-padding: 15px 20px;
-background: #a6093d;
-color: white;
-text-decoration: none;
-margin-right: 10px;
-font-size: 15px;
-text-transform: uppercase;
+  border: 1px solid #a6093d;
+  padding: 15px 20px;
+  background: #a6093d;
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: 15px;
+  text-transform: uppercase;
 }
 
-section{
-
- margin: auto;
+section {
+  margin: auto;
 }
 
 .center {
@@ -71,12 +67,9 @@ section{
   text-align: center;
 }
 
-
-p{
+p {
   font-size: 1.125em;
   line-height: 1.44;
   margin-bottom: 1.75em;
   font: 18px arial;
   padding: 20px;
-
-  

@@ -5,7 +5,6 @@ p {
 }
 
 .cat {
-
   position: absolute;
   left: 33px;
 }
@@ -16,52 +15,49 @@ p {
   top: 335px;
 }
 
-.one{
+.one {
   position: absolute;
-left: 216px;
+  left: 216px;
 }
 
 .b {
   position: absolute;
   left: 216px;
   top: 335px;
-
 }
+
 .two {
   position: absolute;
-left: 420px;
+  left: 420px;
 }
 
-.c{
+.c {
   position: absolute;
   left: 420px;
   top: 335px;
-
 }
+
 .three {
   position: absolute;
-left: 615px;
+  left: 615px;
 }
 
 .d {
   position: absolute;
   left: 615px;
   top: 335px;
-
 }
 
 h2 {
-
   font-size: 30px;
   font-weight: bold;
-    border-bottom: 1px solid lightgrey;
+  border-bottom: 1px solid lightgrey;
 }
 
 .four {
   position: absolute;
   left: 33px;
   top: 460px;
-
 }
 
 .e {
@@ -74,32 +70,30 @@ h2 {
   position: absolute;
   left: 216px;
   top: 460px;
-
 }
+
 .f {
   position: absolute;
   left: 216px;
   top: 600px;
-
 }
+
 .six {
   position: absolute;
   left: 420px;
   top: 460px
-
 }
+
 .g {
   position: absolute;
   left: 420px;
   top: 600px;
-
 }
-.seven {
 
-  position:absolute;
+.seven {
+  position: absolute;
   left: 615px;
   top: 460px;
-
 }
 
 .h {
@@ -107,11 +101,11 @@ h2 {
   left: 615px;
   top: 600px;
 }
-.text{
+
+.text {
   color: Black;
   font-weight: lighter;
 }
-
 
 h1 {
   color: DarkOrange;

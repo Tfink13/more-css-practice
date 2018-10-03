@@ -28,6 +28,7 @@ img {
   width: 50%;
   transition: border-color 0.25s ease;
 }
+
 img:hover {
   border: 3px solid #8fbcdd;
 }
@@ -36,6 +37,7 @@ a {
   color: #444;
   transition: color 0.25s ease;
 }
+
 a:hover {
   color: #8fbcdd;
 }

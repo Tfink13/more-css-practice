@@ -1,42 +1,39 @@
 /* Add your CSS here */
-
 body {
   font-family: BlinkMacSystemFont;
-    background: left;
-    min-width: 10px;
+  background: left;
+  min-width: 10px;
+}
 
-  }
 div {
   display: block;
   line-height: 1;
   min-width: 10px;
-
 }
 
 a {
-    color: cornflowerblue;
-    text-decoration: none;
-    min-width: 10px;
+  color: cornflowerblue;
+  text-decoration: none;
+  min-width: 10px;
 }
+
 h1 {
   float: left;
-
 }
+
 .cat {
-
-    border-radius: 50%;
-    position: absolute;
-}
-.cat-two{
   border-radius: 50%;
-  float:right;
+  position: absolute;
+}
 
-
+.cat-two {
+  border-radius: 50%;
+  float: right;
 }
 
 .diverse {
-    padding-right: 24px;
-    padding-left: 24px;
+  padding-right: 24px;
+  padding-left: 24px;
 }
 
 .group {
@@ -47,10 +44,12 @@ h1 {
   float: left;
   top: 0px;
 }
+
 .b {
   text-align: center;
-      font-weight: 500;
+  font-weight: 500;
 }
+
 .container-two {
   max-width: 1000px;
   margin-left: auto;
@@ -58,54 +57,41 @@ h1 {
   padding-right: 15px;
   padding-left: 15px;
   min-width: 10px;
-
 }
 
-
 .a {
-      width: 75%;
-      margin-right: auto;
-      margin-left: auto;
-      text-align: center;
-      line-height: 2;
-
+  width: 75%;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  line-height: 2;
 }
 
 .b {
-
-    font-size: 65px;
-    line-height: 1;
-
+  font-size: 65px;
+  line-height: 1;
 }
 
 .c {
-
-font-size: 24px;
-color: Grey;
-
-
+  font-size: 24px;
+  color: Grey;
 }
+
 * {
   box-sizing: border-box;
-
 }
 
 .d {
-
-margin-top: 65px;
-font-size: 20px;
-
-
+  margin-top: 65px;
+  font-size: 20px;
 }
 
 .f {
   margin-left: 50px;
-
 }
 
-.g{
+.g {
   margin-left: 50px;
-
 }
 
 .clearfix:before {
@@ -117,8 +103,6 @@ font-size: 20px;
   display: table;
   clear: both;
   content: "";
-
-
 }
 
 .top {
@@ -126,27 +110,26 @@ font-size: 20px;
 }
 
 .container-two {
-
   margin-left: auto;
-margin-right: auto;
-padding-right: 15px;
-padding-left: 15px;
-min-width: 10px;
+  margin-right: auto;
+  padding-right: 15px;
+  padding-left: 15px;
+  min-width: 10px;
 }
+
 .info {
   margin-left: 180px;
   width: 33%;
   text-align: left;
-
 }
 
 .bold {
   font-family: Courier;
   font-weight: bolder;
-  float:left;
+  float: left;
 }
 
-.info-two{
+.info-two {
   margin-left: 180px;
   width: 33%;
   text-align: left;
@@ -155,21 +138,18 @@ min-width: 10px;
   right: 100px;
 }
 
-
 section {
   position: absolute;
-    float: left;
+  float: left;
 }
-
 
 .work {
   position: absolute;
-    float: right;
-        left: 525px;
-
+  float: right;
+  left: 525px;
 }
 
 .diverse-two {
   font-family: cursive;
-    width: 100%;
+  width: 100%;
 }

@@ -1,59 +1,47 @@
 /* Add your CSS here */
 body {
-  margin:0 auto;
+  margin: 0 auto;
   width: 75%;
-
 }
-
-
 
 form label,
 form input {
-    display: block;
-    width: 100%;
-
+  display: block;
+  width: 100%;
 }
 
 form input {
-    border: 2px solid #F67070;
-    border-radius: 1px;
-    padding: .5rem;
-    margin-bottom: 1rem;
-    font-size: 20px;
+  border: 2px solid #F67070;
+  border-radius: 1px;
+  padding: .5rem;
+  margin-bottom: 1rem;
+  font-size: 20px;
 }
 
 .one {
-    color: lightGrey;
+  color: lightGrey;
 }
-
 
 .halfwidth {
-   width: 50%;
-   float: left;
-
+  width: 50%;
+  float: left;
 }
+
 .halfwidth.right {
   border-top-left-radius: 0;
   border-bottom-right-radius: 0;
   border-left: none;
-
 }
 
 .red {
   background-color: #F67070;
   text-align: center;
   width: 100%;
-  
 }
+
 h1 {
   color: white;
   width: 100%;
   text-align: left;
   background: url(https://i.redd.it/5xecznpq70py.jpg)
-}
-
-
-
-
-
 }
