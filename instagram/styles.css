@@ -30,16 +30,13 @@ div.a {
 .main-menu {
   background: turquoise;
   position: absolute;
-  left: 0;
+  left: 2px;
   width: 45px;
   overflow: hidden;
   transition: width .05s linear;
   z-index: 1000;
   box-shadow: 8px 8px 20px 5px black;
-}
-
-.main-menu>ul {
-  margin: 25px 0;
+  border: 5px solid black;
 }
 
 .main-menu li {
@@ -56,7 +53,6 @@ div.a {
   font-size: 14px;
   text-decoration: none;
   transition: all .5s linear;
-  box-shadow: 0px -1px 3px black;
 }
 
 .main-menu .nav-icon {
@@ -102,8 +98,9 @@ nav ul, nav li {
 }
 
 .main-menu li:hover>a, nav.main-menu li.active>a, .dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus, .dropdown-menu>.active>a, .dropdown-menu>.active>a:hover, .dropdown-menu>.active>a:focus, .no-touch .dashboard-page nav.dashboard-menu ul li:hover a, .dashboard-page nav.dashboard-menu ul li.active a {
-  color: turquoise;
+  color: white;
   background-color: #5fa2db;
+  box-shadow: 1px 1px 20px 0px black;
 }
 
 @font-face {
